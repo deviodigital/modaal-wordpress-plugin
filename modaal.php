@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Modaal
  * Plugin URI:        http://www.deviodigital.com
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Description:       Modaal is a WCAG 2.0 Level AA accessible modal window plugin.
+ * Version:           0.1
  * Author:            Robert DeVore
  * Author URI:        http://www.robertdevore.com
  * License:           GPL-2.0+
